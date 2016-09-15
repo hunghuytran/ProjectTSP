@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">ProjectTSP</string>
-    <string name="clear_button">Clear</string>
-    <string name="add_button">Add</string>
-    <string name="save_button">Save</string>
-    <string name="route_button">Route</string>
-    <string name="title_activity_maps">TSP</string>
-</resources>
